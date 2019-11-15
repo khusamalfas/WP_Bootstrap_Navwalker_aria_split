@@ -101,4 +101,4 @@ Add Schema org.
 
 ## Bug tracker
 
-Have a bug? Please create an issue on GitHub at https://github.com/khusamalfas/WP_Bootstrap_Navwalker_aria_split/issues or https://github.com/khusamalfas/wp-bootstrap4-navwalker/
+Have a bug? Please create an issue on GitHub at https://github.com/khusamalfas/WP_Bootstrap_Navwalker_aria_split/issues or https://github.com/jprieton/wp-bootstrap4-navwalker/issues
